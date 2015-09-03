@@ -1,0 +1,23 @@
+input[type="number"], input[type="date"], input[type="time"], input[type="text"], span.error {
+	margin-top: 1em;
+}
+
+div#modal {
+	position: absolute;
+	top: 100px;
+	left: 400px;
+	background-color: #C3D6E6;
+	font-weight: bold;
+	font-size: larger;
+	border: solid 2px black;
+	border-color: #E8E8FF #E8E8FF AAAAC5 AAAAC5;
+	padding: 3em;
+}
+
+.ahead {
+	color: green;
+}
+
+.behind {
+	color: red;
+}
